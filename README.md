@@ -4,7 +4,7 @@ A simple AppleScript that toggles the `”Use all F1, F2, etc. keys as standard 
 
 #### Alfred v2
 
-Just doubble click the `ToggleFunctionKeys.alfredworkflow` file and you are all set.
+Just doubble click the `ToggleFunctionKeys.alfredworkflow` file and you are all set. The workflow uses the keyword "fn" by default.
 
 #### Aldred v1
 
