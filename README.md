@@ -16,3 +16,5 @@ Please note that you have to have `”Enable access for assistive devices”` tu
 
 * 10.9: `System Preferences > Security & Privacy > Privacy > Accessibility`
 * 10.X: `System Preferences > Accessibility`
+
+Original AppleScript by [kiodane](http://forums.macrumors.com/showpost.php?p=17106824&postcount=12).
