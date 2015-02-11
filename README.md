@@ -18,3 +18,5 @@ Please note that you have to have `”Enable access for assistive devices”` tu
 * 10.X: `System Preferences > Accessibility`
 
 Original AppleScript by [kiodane](http://forums.macrumors.com/showpost.php?p=17106824&postcount=12).
+
+Because the script invoke apple ui  system based on preffered language ,now it just supports English and Chinese ,if you have chosen other language,please add corresponding literals to the langMapList in the applescript or the applescript in alfred workflow as the right format.
